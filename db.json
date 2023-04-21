@@ -1,4 +1,6 @@
-[
+{
+  
+  "products": [
   {
     "id": 1,
     "title": "Lenovo V15 G2 15.6 inch Laptop",
@@ -300,3 +302,4 @@
     "rating": "4.9/5"
   }
 ]
+}
